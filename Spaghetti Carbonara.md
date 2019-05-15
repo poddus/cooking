@@ -3,9 +3,9 @@ serves 2
 Ingredients
 -----------
 
-* 3 large free-range egg yolks
+* 3 large egg yolks
 * 40 g Parmesan cheese , plus extra to serve
-* 1 x 150 g piece of higher-welfare pancetta
+* 150 g pancetta
 * 200 g dried spaghetti
 * 1 clove of garlic
 * extra virgin olive oil
