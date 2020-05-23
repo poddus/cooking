@@ -26,10 +26,10 @@ Ingredients
 Preparation
 -----------
 
-* Preheat oven to 175 °C
+* Preheat oven to 180 °C
 * Lightly grease a loaf pan (23 x 13 cm)
 * Combine wet and dry ingredients separately
 * Add dry to wet, stir to combine
 * pour batter into loaf pan
 
-Bake in preheated oven for about 60 minutes, until a toothpick inserted into center of the loaf comes out clean. Let bread cool in pan for 10 minutes, then turn out onto a wire rack.
+Bake for about 60 minutes, until a toothpick inserted into center of the loaf comes out clean. Let bread cool in pan for 10 minutes, then turn out onto a wire rack.
