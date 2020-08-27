@@ -9,13 +9,13 @@ Ingredients
 ### Filling
 * 95 g light or dark brown sugar
 * 50 grams granulated sugar
-* 1.5 g salt
+* 1 g salt
 * 2 teaspoons ground cinnnamon
-* Freshly grated nutmeg, to taste, or about 1/4 teaspoon ground
-* 1/4 teaspoon ground ginger
-* 1/8 teaspoon ground cloves
-* 4 1/4 to 4 1/2 pounds baking apples, shown here with mutsu (which is like a mix of Granny Smith and Golden Delicious) but more suggestions here
-* 3 tablespoons tapioca flour or starch
+* 2 g grated nutmeg
+* 4 g ground ginger
+* 2 whole cloves, ground
+* 2 kg baking apples
+* 20 g binder, for example tapioca flour or starch
 
 ### Crust
 
@@ -23,9 +23,9 @@ Ingredients
 
 * 2 cups (260 grams) all-purpose flour
 * 1 tablespoon (15 grams) granulated sugar
-* 3/4 teaspoon fine sea or table salt
-* 1 cup (230 grams, 8 ounces, or 16 tablespoons) cold, unsalted butter
-* 1/2 cup (120 grams) very cold water
+* 2 g salt
+* 230 g cold, unsalted butter
+* 120 g very cold water
 
 Preparation
 -----------
@@ -54,7 +54,8 @@ Unwrap first packet of dough, place on a well-floured counter, sprinkle the top 
 * Trim the top crust or lattice strips to the edge of the pie dish. Fold the overhang from the lower crust over to form a thick rim, and crimp it together with your fingers or a fork to seal it. Brush top crust with egg, then sprinkle with sugar if desired. If your top crust is in one piece, cut a few vents in it with a sharp knife.
 
 ### Baking
-* Reuse that sheet of parchment paper on the large baking sheet for easier cleanup, then transfer your prepared pie onto it. Bake for 75 minutes, turning once or twice for even color. If your pie is browning too fast, take a large square of foil, mold it over the back of a large bowl into a convex dome, then use that to cover the pie in the oven for the remaining baking time so it doesn’t brown much further. Pie is done when juices are bubbling visibly through the vents or lattice, or when the internal temperature reads 195°F. A tester inserted into the pie shouldn’t hit any overtly crunchy apple pieces.
+* Preheat oven to 200°C
+* Reuse that sheet of parchment paper on the large baking sheet for easier cleanup, then transfer your prepared pie onto it. Bake for 75 minutes, turning once or twice for even color. If your pie is browning too fast, take a large square of foil, mold it over the back of a large bowl into a convex dome, then use that to cover the pie in the oven for the remaining baking time so it doesn’t brown much further. Pie is done when juices are bubbling visibly through the vents or lattice, or when the internal temperature reads 90°C. A tester inserted into the pie shouldn’t hit any overtly crunchy apple pieces.
 
 ### Serving
 Cool pie for at least one hour at room temperature before cutting into it. However, your filling will not fully thicken until it has fully cooled, ideally in the fridge for a couple hours. You can rewarm slices as you serve them, if desired. Leftovers keep at room temperature for 2 to 3 days, and in the fridge for 1 week.
