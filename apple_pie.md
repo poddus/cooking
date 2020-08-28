@@ -15,7 +15,7 @@ Ingredients
 * 4 g ground ginger
 * 2 whole cloves, ground
 * 2 kg baking apples
-* 20 g binder, for example tapioca flour or starch
+* 10 g (or until all fluid is bound) guar gum or other binder
 
 ### Crust
 
