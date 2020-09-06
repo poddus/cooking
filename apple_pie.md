@@ -7,24 +7,24 @@ Ingredients
 -----------
 
 ### Filling
-* 95 g light or dark brown sugar
-* 50 grams granulated sugar
+* 150 g brown sugar
 * 1 g salt
-* 2 teaspoons ground cinnnamon
+* 5 g ground cinnnamon
 * 2 g grated nutmeg
-* 4 g ground ginger
+* 5 g ground ginger
 * 2 whole cloves, ground
-* 2 kg baking apples
+* 50 ml orangejuice
+* 1.5 kg baking apples
 * 15 g (or until all fluid is bound) guar gum or other binder
 
 ### Crust
 
 <!-- based on Smitten Kitchen https://smittenkitchen.com/2019/03/extra-flaky-pie-crust/ -->
 
-* 260 g all-purpose flour
+* 280 g all-purpose flour
 * 15 g granulated sugar
 * 2 g salt
-* 230 g cold, unsalted butter
+* 250 g cold, unsalted butter
 * 120 g very cold water
 * (optional) 1 egg
 
