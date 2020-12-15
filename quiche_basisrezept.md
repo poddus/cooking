@@ -6,7 +6,7 @@ Zutaten
 
 * 300 g Mehl
 * 150 g Butter
-* ¾ TL Salz
+* 3-4 g Salz
 * 1 Ei(er) für den Teig
 * 5 Ei(er) für Füllung
 * 8 EL Wasser, warm

@@ -14,7 +14,7 @@ Ingredients
 
 * Glasur
     * 50 g Puderzucker + etwas zum bestäuben.
-    * ca 30 ml Orangensaft
+    * ca 30 ml Grapefruitsaft
 
 Preparation
 -----------

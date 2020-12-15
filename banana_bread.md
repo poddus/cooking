@@ -2,7 +2,7 @@ Banana Bread
 ============
 
 This recipe is flexible.
-* Flour can be partially subsituted with nut flour (almond, hazelnut, etc.)
+* Flour can be partially subsituted with nut flour (almond, hazelnut, etc.) for a richer texture. I recommend replacing 100 g of the flour.
 * Butter can be subsituted with coconut oil, or nut butter.
 
 Ingredients
