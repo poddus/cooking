@@ -14,7 +14,7 @@ Ingredients
 * 2 tbsp. olive oil
 * 1 clove of garlic
 * 20 g parsley
-* 2 tsp. ground cumin
+* 2 tsp. ground turmeric
 * sprinkle of red chili (to taste)
 
 
