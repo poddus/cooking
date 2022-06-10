@@ -9,7 +9,7 @@ Zutaten
 * 3-4 g Salz
 * 1 Ei(er) für den Teig
 * 5 Ei(er) für Füllung
-* 8 EL Wasser, warm
+* 70 ml Wasser, warm
 * 400 ml Sahne oder Milch
 * 200 g Käse (Emmentaler), gerieben
 * Salz, Pfeffer, Muskatnuss

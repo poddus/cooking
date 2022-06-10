@@ -13,7 +13,7 @@ Ingredients
 * 2 g salt
 * 100 g butter
 * 100 g brown sugar
-* 2 eggs
+* 1 egg
 * 500 g mashed overripe bananas (approx. 4-6 bananas)
 * optional
     * vanilla
