@@ -46,7 +46,7 @@ Dissolve yeast in milk. Add sugar, egg yolks, Amaretto, vanilla, lemon peel, and
 
 While the dough rises, wash, halve, and pit the plums, then cut each half lengthwise about halfway through. Place Ladyfingers and Amarettini into a plastic bag and mash into a coarse powder. Combine sugar, cinnamon, clove, and citric acid (if needed) in a bowl and set aside.
 
-When the dough has about doubled in size, roll it out on a floured baking sheet. Cover the dough with the Crumbs made previously, then densely cover with plums. Coat with cinnamon sugar. The dough needs about another 20 mins for its final proof. In the meantime, preheat Oven to 180 C and assemble the crumble:
+When the dough has about doubled in size, roll it out on a floured baking sheet. Cover the dough with the Crumbs made previously, then densely cover with plums, standing them upright with the cut ends pointing up. Coat with cinnamon sugar. The dough needs about another 20 mins for its final proof. In the meantime, preheat Oven to 180 C and assemble the crumble:
 
 Combine ingredients except almond and haferfleks into a dough, then carefully add almonds and haferflecks.
 
