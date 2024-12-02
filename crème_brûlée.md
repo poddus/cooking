@@ -12,7 +12,7 @@ Ingredients
 * 3 egg yolks
 
 
-Directions
+Preparation
 ----------
 
 * combine cream and vanilla in saucepan and slowly bring to a boil. remove from heat, cover and set aside for 15 mins.

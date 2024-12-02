@@ -33,7 +33,7 @@ Ingredients
 * 20 g double cream
 * 1 g salt
 
-Method
+Preparation
 ---
 
 1. In a bowl combine the milk, yeast, salt, sugar, and egg. Mix well to dissolve the sugar & hydrate the yeast. Add the flour and mix to a dough.

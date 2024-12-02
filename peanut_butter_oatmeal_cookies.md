@@ -15,7 +15,7 @@ Ingredients
     * oats
 
 
-Directions
+Preparation
 ----------
 
 * Oven @ 200°C

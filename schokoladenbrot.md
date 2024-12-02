@@ -3,6 +3,7 @@ Schokoladenbrot (nach Liesl)
 
 Ingredients
 -----------
+
 * 300 g Butter
 * 250 g Zucker
 * 300 g geriebene Blockschokolade
@@ -13,6 +14,7 @@ Ingredients
 
 Preparation
 -----------
+
 * Ofen auf 170°C vorheizen
 * Butter, Zucker u. Dotter schaumig rühren
 * geriebene Schokolade dazugeben

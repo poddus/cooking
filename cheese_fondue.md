@@ -18,6 +18,7 @@ Ingredients
 
 Preparation
 -----------
+
 1. Place grated cheese in a caquelon
 1. Add grated/pressed garlic
 1. make slurry with starch and a small amount of white wine and add to caquelon

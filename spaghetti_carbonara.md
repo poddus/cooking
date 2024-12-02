@@ -10,7 +10,7 @@ Ingredients
 * 1 clove of garlic
 * extra virgin olive oil
 
-Method
+Preparation
 ------
 
 1. Put the egg yolks into a bowl, finely grate in the Parmesan, season with pepper, then mix well with a fork and put to one side.

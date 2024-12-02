@@ -18,7 +18,7 @@ Ingredients
     * Hot Sauce
 
 
-Directions
+Preparation
 ----------
 
 * sprinkle meat with salt.

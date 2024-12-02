@@ -5,6 +5,7 @@ serves 4 people
 
 Ingredients
 -----------
+
 * 2 sweet potatoes
 * 2 red onions
 * 2 tomatoes
@@ -20,6 +21,7 @@ Ingredients
 
 Preparation
 -----------
+
 * preheat oven to 200°C
 * cut sweet potatoes into 2 cm chunks. cut onions in half, cut halves into 1 cm thick slivers. place sweet potatoes and onions on baking sheet and bake for 30 minutes or until done
 * cut tomatoes and avocados into 2 cm chunks, chop parsley, and combine in a bowl, set aside.

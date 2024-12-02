@@ -7,6 +7,7 @@ sticks should be on the thicker side, > 10 mm diameter. round wood (beech/buche)
 
 Ingredients
 -----------
+
 * 800 g whole wheat flour
 * 1 cube fresh yeast
 * 1.5 tsp. salt
@@ -18,6 +19,7 @@ Ingredients
 
 Preparation
 -----------
+
 * combine 100 ml water and honey in a bowl with some flour to create a watery mixture. then crumble in yeast and stir to combine, set aside until it bubbles, about 10 minutes
 * combine everything in a big bowl and knead into a smooth dough
 * let rise for about 30-45 minutes
