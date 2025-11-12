@@ -10,11 +10,10 @@ Ingredients
 
 * 800 g whole wheat flour
 * 1 cube fresh yeast
-* 1.5 tsp. salt
+* 12 g salt
 * 1 heaped tbsp. honey
-* 1 tsp. molasses
 * 6 tbsp. olive oil
-* 450 ml warm water
+* 500 ml warm water
 * optional: bacon or ham slices (one per serving)
 
 Preparation
