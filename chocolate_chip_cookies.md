@@ -1,19 +1,19 @@
 Chocolate Chip Cookies
 ======================
 
-basic tollhouse cookie recipe, but with mostly mass units and adjusted for german standard grocery units.
+basic tollhouse cookie recipe, but with mostly mass units and adjusted for german standard grocery units. makes about 10 large cookies
 
 Ingredients
 -----------
-* 250 g butter
-* 350 g white sugar
-* 20 g molasses
-* 10 g vanilla bean (about 2 beans)
-* 2 eggs
-* 350 g flour (405)
-* 10 g baking powder
-* 5 g salt
-* 200 g block chocolate
+* 125 g butter
+* 175 g white sugar
+* 10 g molasses
+* 1 vanilla bean (ca. 5 g)
+* 1 egg
+* 175 g flour (type 405)
+* 5 g baking powder
+* 3 g salt
+* 100 g chocolate chunks
 
 Preparation
 -----------
