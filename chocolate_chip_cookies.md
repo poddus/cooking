@@ -5,7 +5,7 @@ basic tollhouse cookie recipe, but pimped a bit and with mostly mass units and a
 
 Ingredients
 -----------
-* 250 g butter
+* 225 g butter
 * 350 g white sugar
 * 20 g molasses (optionally white and brown sugar half and half)
 * 2 eggs
@@ -13,7 +13,7 @@ Ingredients
 * 15 g baking powder
 * 200 g chocolate chunks (block chocolate)
 * 5 g salt
-* 50 ml rum, gold or dark
+* 30 ml rum, gold or dark
 * 2 g ground vanilla bean
 
 Preparation
